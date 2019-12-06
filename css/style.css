@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Calistoga|Ibarra+Real+Nova&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body{
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 18px;
+  margin: 0px;
+}
+h1,h2,h3{
+  font-family: font-family: 'Calistoga', cursive;
+  font-weight: bold;
+}
+a{
+  text-decoration: none;
+}
+
